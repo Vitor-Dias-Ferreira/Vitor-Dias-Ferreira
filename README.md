@@ -1,7 +1,7 @@
 ## Vitor Dias Ferreira
 Me chamo Vitor Dias Ferreira, tenho 19 anos e sou natural de São Paulo. Concluí o ensino médio na ETECAF, cursei tecnico em automação industrial e analise e desenvolvimento de sistemas. Atualmente, estou cursando Estatística e Ciência de Dados na Universidade de São Paulo (USP), no campus de São Carlos (ICMC) onde pretendo aprofundar meus conhecimentos em matemática aplicada (modelagem matemática e otimização), computação, estatística e ciência de dados.
 
-## 💼 Experiecia
+## Experiência
 - **Desenvolvedor de algoritmos - OBE** (outubro 2025 - o momento)  
   - Desenvolvendo soluções de automação de tarefas
   - Gerando e analisando relatorios financeiros
@@ -12,7 +12,7 @@ Me chamo Vitor Dias Ferreira, tenho 19 anos e sou natural de São Paulo. Conclu�
 - Análise Estatística
 - Matemática aplicada, Modelagem Matemática, Otimização
  
-## 📬 Contato
+##  Contato
 - [LinkedIn](www.linkedin.com/in/vitor-dias-ferreira) 
 -  [Email](vdias@usp.br)
 
