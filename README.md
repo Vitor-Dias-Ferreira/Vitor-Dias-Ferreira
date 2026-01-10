@@ -4,8 +4,7 @@ Me chamo Vitor Dias Ferreira, tenho 19 anos e sou natural de São Paulo. Conclu�
 ## Experiência
 - **Desenvolvedor de algoritmos - OBE** (outubro 2025 - o momento)  
   - Desenvolvendo soluções de automação de tarefas
-  - Gerando e analisando relatorios financeiros
-  - tecnologias usadas **Python, excel, power bi, sql**.
+  - tecnologias usadas **Python, excel, sql**.
  
 ## Interesses
 - Ciência de Dados, Machine Learning
