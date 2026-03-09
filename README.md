@@ -5,10 +5,19 @@ Me chamo Vitor Dias Ferreira, tenho 19 anos e sou natural de São Paulo. Conclu�
 - **Desenvolvedor de algoritmos - OBE** (outubro 2025 - o momento)  
   - Desenvolvendo soluções de automação de tarefas
   - tecnologias usadas **Python, excel, sql**.
+  - estruturação do banco de dados.
+  - analises estatisticas e modelagem de dados financeiros.
+ 
+  **Iniciação cinetifica - ICMC-USP** (agosto 2025 - o momento)  
+  - Desenvolvendo algoritmos para o problema do caixeiro viajante
+  - Tecnologias usadas **C/C++, linux**.
+  - Estrutura de dados.
+  - Analise de performance por diferentes métodos de resolução.
+  
  
 ## Interesses
 - Ciência de Dados, Machine Learning
-- Análise Estatística
+- Análise Estatística, engenharia de dados
 - Matemática aplicada, Modelagem Matemática, Otimização
  
 ##  Contato
