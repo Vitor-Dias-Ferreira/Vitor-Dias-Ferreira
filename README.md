@@ -3,7 +3,7 @@
 
 *Pesquisador em Engenharia de IA & Otimização | Estudante de Estatística e Ciência de Dados @ ICMC-USP*
 
-Estudante de Estatística e Ciência de Dados no ICMC-USP, tenho interesse na intersecção entre Matemática Aplicada (modelagem matemática e otimização), Ciência de Dados, Engenharia de IA e Computação de Alta Performance. Com sólida base técnica em Desenvolvimento de Sistemas, foco no desenvolvimento de algoritmos robustos e solvers de otimização do zero. Atualmente, sou pesquisador no C4AI (USP/IBM) e co-fundador da Olimpíada Brasileira de Estatística (OBE).
+Estudante de Estatística e Ciência de Dados no ICMC-USP, tenho interesse na intersecção entre Matemática Aplicada (modelagem matemática e otimização), Ciência de Dados, Engenharia de IA e Computação de Alta Performance. Com sólida base técnica em Desenvolvimento de Sistemas, foco no desenvolvimento de algoritmos robustos e solvers de otimização do zero. Atualmente, sou pesquisador no C4AI - Center for Artificial Intelligence (USP/IBM/Fapesp) e co-fundador da Olimpíada Brasileira de Estatística (OBE).
 
 ## Experiência
 - **Desenvolvedor de algoritmos - OBE** (outubro 2025 - o momento)  
