@@ -6,12 +6,14 @@
 Estudante de Estatística e Ciência de Dados no ICMC-USP, tenho interesse na intersecção entre Matemática Aplicada (modelagem matemática e otimização), Ciência de Dados, Engenharia de IA e Computação de Alta Performance. Com sólida base técnica em Desenvolvimento de Sistemas, foco no desenvolvimento de algoritmos robustos e solvers de otimização do zero. Atualmente, sou pesquisador no C4AI - Center for Artificial Intelligence (USP/IBM/Fapesp) e co-fundador da Olimpíada Brasileira de Estatística (OBE).
 
 ## Experiência
-- **Desenvolvedor de algoritmos - OBE** (outubro 2025 - o momento)  
-  - Desenvolvendo soluções de automação de tarefas
-  - tecnologias usadas **Python, excel, sql**.
-  - estruturação do banco de dados.
-  - analises estatisticas e modelagem de dados financeiros.
- 
+
+- **Co-fundador e Líder Técnico ( Finanças & Secretaria) — OBE** (outubro 2025 - o momento)
+- Responsável por projetar e sustentar a infraestrutura que permitiu escalar a Olimpíada para 17.000+ inscritos e 400 escolas em todo o Brasil. Atuo na intersecção entre automação de processos e inteligência financeira.
+
+  - Engenharia de Dados e Automação: Desenvolvimento de soluções em Python e SQL para automação de fluxos operacionais e estruturação de pipelines de dados (ETL), eliminando gargalos manuais e garantindo a integridade do banco de dados.
+  - Finanças Quantitativas: Aplicação de modelagem estatística e análise de dados financeiros para otimização de tesouraria. Realizo o backtesting de estratégias de investimento e alocação de recursos baseada em modelos preditivos.
+  - Gestão Baseada em Dados: Implementação de ferramentas de análise (Python/Excel/SQL) para suporte à decisão da diretoria, focando em eficiência operacional e crescimento institucional sustentável.
+  
   **Iniciação cientifica - ICMC-USP** (agosto 2025 - o momento)  
   - Desenvolvendo algoritmos para o problema do caixeiro viajante
   - Tecnologias usadas **C/C++, linux**.
