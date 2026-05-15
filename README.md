@@ -3,7 +3,7 @@
 
 *Pesquisador em Engenharia de IA & Otimização | Estudante de Estatística e Ciência de Dados @ ICMC-USP*
 
-Me chamo Vitor Dias Ferreira, tenho 19 anos e sou natural de São Paulo. Concluí o ensino médio na ETECAF, cursei tecnico em automação industrial e analise e desenvolvimento de sistemas. Atualmente, estou cursando Estatística e Ciência de Dados na Universidade de São Paulo (USP), no campus de São Carlos (ICMC) onde pretendo aprofundar meus conhecimentos em matemática aplicada (modelagem matemática e otimização), computação, estatística e ciência de dados.
+Estudante de Estatística e Ciência de Dados no ICMC-USP, tenho interesse na intersecção entre Matemática Aplicada (modelagem matemática e otimização), Ciência de Dados, Engenharia de IA e Computação de Alta Performance. Com sólida base técnica em Desenvolvimento de Sistemas, foco no desenvolvimento de algoritmos robustos e solvers de otimização do zero. Atualmente, sou pesquisador no C4AI (USP/IBM) e co-fundador da Olimpíada Brasileira de Estatística (OBE).
 
 ## Experiência
 - **Desenvolvedor de algoritmos - OBE** (outubro 2025 - o momento)  
