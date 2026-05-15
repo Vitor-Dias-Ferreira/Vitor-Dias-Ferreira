@@ -1,4 +1,29 @@
+# Olá, eu sou o Vitor Dias Ferreira! 👋
+
+*
+
+Atuo na intersecção entre **Matemática Aplicada**, **Computação de Alta Performance** e **IA Confiável**. Meu foco é transformar modelos matemáticos complexos em soluções de software robustas, escaláveis e estatisticamente validadas.
+
+---
+
+### 🚀 Projetos e Pesquisas Atuais
+
+* **C4AI (USP/IBM/FAPESP):** Pesquisador no framework **DAMICORE**, atuando no desenvolvimento da camada **"Oracle"**. Implemento modelos de **Inferência Bayesiana** para quantificar incertezas e garantir a confiabilidade de dados em esteiras automatizadas de IA.
+* **Otimização Matemática:** Desenvolvimento de *solvers* exatos do zero (C/C++) para problemas complexos como o Problema do Caixeiro Viajante (TSP), utilizando o **método Simplex** e estruturas de dados de alta performance.
+* **OBE (Olimpíada Brasileira de Estatística):** Como **Co-fundador**, projetei a infraestrutura técnica e financeira que permitiu escalar o projeto para **15.000+ inscritos** e **400 escolas** em todo o Brasil.
+
+---
+
+### 🛠️ Áreas de Especialidade
+
+* **Engenharia de IA:** Construção de pipelines de dados, camadas de interpretabilidade (XAI) e integração de sistemas de suporte à decisão.
+* **Ciência de Dados & Estatística:** Modelagem estatística, inferência, análise exploratória e validação de modelos de Machine Learning.
+* **Computação de Alta Performance:** Desenvolvimento em baixo nível (C/C++), algoritmos de otimização e gerenciamento de ambientes Linux.
+* **Modelagem Matemática:** Transformação de problemas de negócio e logística em modelos de programação linear e inteira.
+
+
 ## Vitor Dias Ferreira
+*Pesquisador em Engenharia de IA | Estudante de Estatística e Ciência de Dados @ ICMC-USP**
 Me chamo Vitor Dias Ferreira, tenho 19 anos e sou natural de São Paulo. Concluí o ensino médio na ETECAF, cursei tecnico em automação industrial e analise e desenvolvimento de sistemas. Atualmente, estou cursando Estatística e Ciência de Dados na Universidade de São Paulo (USP), no campus de São Carlos (ICMC) onde pretendo aprofundar meus conhecimentos em matemática aplicada (modelagem matemática e otimização), computação, estatística e ciência de dados.
 
 ## Experiência
