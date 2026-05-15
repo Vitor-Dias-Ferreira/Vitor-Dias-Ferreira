@@ -8,7 +8,7 @@ Me chamo Vitor Dias Ferreira, tenho 19 anos e sou natural de São Paulo. Conclu�
   - estruturação do banco de dados.
   - analises estatisticas e modelagem de dados financeiros.
  
-  **Iniciação cinetifica - ICMC-USP** (agosto 2025 - o momento)  
+  **Iniciação cientifica - ICMC-USP** (agosto 2025 - o momento)  
   - Desenvolvendo algoritmos para o problema do caixeiro viajante
   - Tecnologias usadas **C/C++, linux**.
   - Estrutura de dados.
