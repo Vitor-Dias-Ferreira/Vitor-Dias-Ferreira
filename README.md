@@ -1,30 +1,38 @@
 
-## Vitor Dias Ferreira
+Vitor Dias Ferreira
 
-*Pesquisador em Engenharia de ML & Otimização | Estudante de Estatística e Ciência de Dados @ ICMC-USP*
+Cientista de Dados | Pesquisador em ML & Otimização Matemática | Co-fundador da OBE
 
-Estudante de Estatística e Ciência de Dados no ICMC-USP, tenho interesse na intersecção entre Matemática Aplicada (modelagem matemática e otimização), Ciência de Dados, Engenharia de ML e Computação de Alta Performance. Com sólida base técnica em Desenvolvimento de Sistemas, foco no desenvolvimento de algoritmos robustos e solvers de otimização do zero. Atualmente, sou pesquisador no C4AI - Center for Artificial Intelligence (USP/IBM/Fapesp) e co-fundador da Olimpíada Brasileira de Estatística (OBE).
+Estudante de Estatística e Ciência de Dados no ICMC-USP, atuo na intersecção entre modelagem matemática, otimização e Ciência de Dados de alta performance. Minha base técnica em desenvolvimento de sistemas é utilizada como ferramenta para construir soluções matemáticas robustas, escaláveis e eficientes. Pesquisador no C4AI (USP/IBM/FAPESP) e co-fundador da Olimpíada Brasileira de Estatística (OBE), unindo rigor estatístico a impacto de escala nacional.
+Experiência
 
-## Experiência
+    Co-fundador & Cientista de Dados — OBE (outubro 2025 - o momento)
 
-- **Co-fundador e Líder Técnico ( Finanças & Secretaria) — OBE** (outubro 2025 - o momento)
-- Responsável por projetar e sustentar a infraestrutura que permitiu escalar a Olimpíada para 17.000+ inscritos e 400 escolas em todo o Brasil. Atuo na intersecção entre automação de processos e inteligência financeira.
+    Responsável pela estratégia de dados que permitiu escalar a operação para 17.000+ inscritos e 400 escolas em todo o Brasil, unindo inteligência analítica a decisões estratégicas.
 
-  - Engenharia de Dados e Automação: Desenvolvimento de soluções em Python e SQL para automação de fluxos operacionais e estruturação de pipelines de dados (ETL), eliminando gargalos manuais e garantindo a integridade do banco de dados.
-  - Finanças Quantitativas: Aplicação de modelagem estatística e análise de dados financeiros para otimização de tesouraria. Realizo o backtesting de estratégias de investimento e alocação de recursos baseada em modelos preditivos.
-  - Gestão Baseada em Dados: Implementação de ferramentas de análise (Python/Excel/SQL) para suporte à decisão da diretoria, focando em eficiência operacional e crescimento institucional sustentável.
-  
-  **Iniciação cientifica - ICMC-USP** (agosto 2025 - o momento)  
-  - Desenvolvendo algoritmos para o problema do caixeiro viajante
-  - Tecnologias usadas **C/C++, linux**.
-  - Estrutura de dados.
-  - Analise de performance por diferentes métodos de resolução.
-  
- 
-## Interesses
-- Ciência de Dados, Machine Learning
-- Análise Estatística, engenharia de dados
-- Matemática aplicada, Modelagem Matemática, Otimização
+        Estratégia de Dados: Estruturação de pipelines escaláveis (Python/SQL) para extração e limpeza de bases complexas, criando a fundação para análises estatísticas rigorosas e modelos preditivos.
+
+        Finanças Quantitativas: Modelagem estatística e backtesting de estratégias de investimento para a tesouraria, otimizando a alocação de recursos financeiros baseada puramente em dados.
+
+        Gestão Analítica: Implementação de ferramentas de suporte à decisão para a diretoria, focando em eficiência operacional e crescimento institucional sustentável.
+
+    Pesquisador de Iniciação Científica — ICMC-USP (agosto 2025 - o momento)
+
+    Orientação: Profa. Dra. Marina Andretta
+
+        Modelagem de Otimização Combinatória: Estudo e formulação de problemas NP-difíceis (TSP) utilizando Otimização Linear Inteira Mista (modelos MTZ e DFJ) para resolução exata via solvers.
+
+        Algoritmos de Aproximação e Heurísticas: Implementação e análise de desempenho de algoritmos de 2-aproximação e heurísticas de busca local (2-Opt e Vizinho Mais Próximo) em C/C++.
+
+        Análise Comparativa: Execução de experimentos para avaliar o trade-off entre tempo de processamento e qualidade da solução (gap de otimalidade), fundamentando decisões em métricas de eficiência computacional.
+
+Interesses
+
+    Ciência de Dados & Machine Learning
+
+    Inferência Estatística & Engenharia de Dados
+
+    Pesquisa Operacional & Otimização Matemática
  
 ##  Contato
 - [LinkedIn](www.linkedin.com/in/vitor-dias-ferreira) 
