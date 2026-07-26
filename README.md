@@ -21,8 +21,8 @@ Estudante de Estatística e Ciência de Dados no ICMC-USP, atuo na intersecção
 
 ## Interesses
 - Ciência de Dados & Machine Learning
-- Análise Estatística & Engenharia de Dados
-- Pesquisa Operacional & Otimização Matemática
+- Análise Estatística & Modelagem Matemática
+- Pesquisa Operacional & Computação de Alta Performance
 
 ## Contato
 - [LinkedIn](https://www.linkedin.com/in/vitor-dias-ferreira) 
